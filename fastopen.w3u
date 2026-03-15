@@ -16,6 +16,15 @@
           "userAgent": "Mozilla/5.0",
           "info": "Server github",
           "playInNatPlayer": true
+        },
+        {
+          "name": "xxx2",
+          "image": "xxx",
+          "url": "https://github.com/prachyak13/serverfastopen/raw/refs/heads/main/ccc.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
         }
       ]
     }
