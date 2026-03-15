@@ -1,0 +1,23 @@
+{
+  "name": "SPORT THAI",
+  "image": "xxx",
+  "author": "update 06/03/26",
+  "groups": [
+    {
+      "name": "MONOMAX",
+      "image": "https://i-pic.info/i/raw/J9pc1742730",
+      "author": "xxx",
+      "stations": [
+        {
+          "name": "xxx",
+          "image": "xxx",
+          "url": "https://raw.githubusercontent.com/prachyak13/serverfastopen/refs/heads/main/Xxx.m3u8",
+          "referer": "https://github.com/",
+          "userAgent": "Mozilla/5.0",
+          "info": "Server github",
+          "playInNatPlayer": true
+        }
+      ]
+    }
+  ]
+}
